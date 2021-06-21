@@ -1,4 +1,4 @@
-//Ruben Zuniga
+
 //4/10/2019
 //The purpose of this program is to calculate the occupancy
 //rate for a hotel. This program will ask for the number of floors
